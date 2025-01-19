@@ -14,8 +14,6 @@
 
 <img src="https://imgur.com/RzPc3xl" alt="Microsoft Azure">
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="RzPc3xl"><a href="https://imgur.com/RzPc3xl">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
