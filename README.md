@@ -12,7 +12,7 @@
 
 <h2>Skills:</h2>
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="[pic_trulli.jpg](https://imgur.com/RzPc3xl)" alt="Microsoft Azure">
 
 <h2> 🤳 Connect with me:</h2>
 
