@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cloud and DevOps Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Migration to Azure Web App</b>
+  - [From a Virtual Machine](https://github.com/batuhan97/Migration-to-Azure-Web-Apps)
 
 <h2> 🏆 Certifications:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Proofpoint Certified Email Authentication Specialist 2024](https://www.credly.com/badges/e4309576-2a87-4874-8a13-e8580614540d/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
