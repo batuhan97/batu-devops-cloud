@@ -9,6 +9,10 @@
 
 - [Proofpoint Certified Email Authentication Specialist 2024](https://www.credly.com/badges/e4309576-2a87-4874-8a13-e8580614540d/linked_in_profile)
 
+
+<h2>Skills:</h2>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
