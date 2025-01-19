@@ -12,7 +12,7 @@
 
 <h2>Skills:</h2>
 
-<img src="(https://github.com/batuhan97/icons-pics/blob/main/azure-icon-svgrepo-com.png)" alt="Microsoft Azure">
+<img alt="Microsoft Azure" width="22px" src="(https://github.com/batuhan97/icons-pics/blob/main/azure-icon-svgrepo-com.png)" >
 
 <h2> 🤳 Connect with me:</h2>
 
