@@ -12,6 +12,7 @@
 
 <h2>Skills:</h2>
 
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 
 <h2> 🤳 Connect with me:</h2>
 
