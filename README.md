@@ -4,13 +4,18 @@
 
 - <b>Migration to Azure Web App</b>
   - [From a Virtual Machine](https://github.com/batuhan97/Migration-to-Azure-Web-Apps)
+ 
+<h2> 📝 IT Projects:</h2>
+
+- <b>Adding bulk users to a Microsoft 365 distribution group using PowerShell</b>
+  - [Powershell](https://github.com/batuhan97/Migration-to-Azure-Web-Apps)
 
 <h2> 🏆 Certifications:</h2>
 
 - [Proofpoint Certified Email Authentication Specialist 2024](https://www.credly.com/badges/e4309576-2a87-4874-8a13-e8580614540d/linked_in_profile)
 
 
-<h2>Skills:</h2>
+<h2> 💻 Skills:</h2>
 
 <img alt="Microsoft Azure" width="44px" src="https://github.com/batuhan97/icons-pics/blob/main/azure-icon-svgrepo-com.png" />
 
